@@ -244,7 +244,7 @@ int main(int argc, char *argv[]) {
 	test_ProcessLine();
 	test_File_OpenClose();
 	test_system();
-	remove_file_debris();
+	//remove_file_debris();
 
 	string studentname = "Your";
 	if (argc == 2) {
